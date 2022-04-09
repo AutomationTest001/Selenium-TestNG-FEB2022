@@ -111,7 +111,7 @@
           
           <configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>SuiteFile/regressionsuite.xml</suiteXmlFile>
+						<suiteXmlFile>SuiteFile/testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 					<argLine>-Xmx1024m</argLine>
 				</configuration>
